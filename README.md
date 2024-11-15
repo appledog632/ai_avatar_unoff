@@ -1,6 +1,8 @@
-# University AI Chatbot
+# Millie
 
-This project is an AI-powered chatbot designed for university environments, featuring a ReactJS frontend and a TypeScript backend. The chatbot is containerized using Docker Compose, making setup straightforward. Just replace the environment variable `GEMINI_API_KEY` in the `docker-compose.yml` file, and you're ready to go.
+Millie is an AI-powered chatbot designed specifically for university environments, with a focus on providing information related to the Galgotias Tech Council and upcoming fests. Featuring a human-like avatar, Millie interacts through voice—answering questions and providing responses—while users can also communicate with her by speaking. For accessibility, captions are provided alongside her voice responses.
+
+The project is built with a ReactJS frontend and a TypeScript backend, ensuring a smooth and engaging user experience. Millie is containerized using Docker Compose, making it easy to set up and deploy. Just replace the GEMINI_API_KEY in the docker-compose.yml file, and you're good to go
 
 ## Steps to Set Up
 1. Replace `GEMINI_API_KEY` with your own key in the `docker-compose.yml` file.
