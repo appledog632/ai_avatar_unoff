@@ -22,6 +22,5 @@ This project uses:
 ## Acknowledgments
 Special thanks to the contributors who supported this project:
 - [NixSkye](https://github.com/NixSkye)
-- [tanmay019ai](https://github.com/tanmay019ai)
 - [appledog632](https://github.com/appledog632)
 
