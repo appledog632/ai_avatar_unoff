@@ -57,8 +57,8 @@ Upgrade Millie's human-like avatar to a robotic version for a more futuristic an
 ⦁ **Expanded Knowledge Base**:
 Broaden Millie's knowledge to include a wider range of topics, making it an even more versatile assistant
 ## 📸 Snapshots
-![image](https://github.com/appledog632/ai_avatar_unoff/blob/main/image1.png)
 ![image](https://github.com/appledog632/ai_avatar_unoff/blob/main/image2.png)
+![image](https://github.com/appledog632/ai_avatar_unoff/blob/main/image1.png)
 
 ## System Design
 ![image](https://github.com/appledog632/ai_avatar_unoff/blob/main/systemdesign.png)
